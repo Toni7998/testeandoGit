@@ -1,11 +1,11 @@
 # 📌 Repositorio de Pruebas GIT  
 
-Repositorio creado únicamente para **practicar y testear comandos de Git**.  
+Repositorio creado únicamente para **practicar y testear comandos de Git** 🧑‍💻.  
 
 ---
 
 ## 🚀 Cómo empezar  
 
-1. Clona el repo:  
-   ```bash
-   git clone https://github.com/tu-usuario/tu-repo.git
+🔹 Clona el repositorio en tu máquina:  
+```bash
+git clone https://github.com/tu-usuario/tu-repo.git
